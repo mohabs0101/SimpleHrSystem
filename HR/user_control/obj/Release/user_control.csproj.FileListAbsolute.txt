@@ -1,0 +1,13 @@
+C:\Users\mohammed\Desktop\user control\user_control\bin\Release\user_control.exe.config
+C:\Users\mohammed\Desktop\user control\user_control\bin\Release\user_control.exe
+C:\Users\mohammed\Desktop\user control\user_control\bin\Release\user_control.pdb
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.add_users.resources
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.Form1.resources
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.adminstrator.resources
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.profile.resources
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.Properties.Resources.resources
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.csproj.GenerateResource.cache
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.csproj.CoreCompileInputs.cache
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.exe
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.pdb
+C:\Users\mohammed\Desktop\user control\user_control\obj\Release\user_control.csprojAssemblyReference.cache
